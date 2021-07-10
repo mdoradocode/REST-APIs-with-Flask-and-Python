@@ -1,0 +1,1 @@
+print("myLib.py: ", __name__)
